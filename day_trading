@@ -7,6 +7,7 @@ Rule 6: Your only job as a day trader is to manage risk
 Rule 7: Retail traders trade only Stocks in Play, high relative volume stocks that have fundamental catalysts and are being traded regardless of the overall market 
 Rule 8: Experienced traders are like guerrila soldiers. They jump out at just the right time, take their profit and get out 
 Rule 9: Green candle indicate buying pressure, red candle indicates selling pressure 
+Rule 10: Indicators only indicate; they should not be allowed to dictate
 
 Pre-market scanning 
 9.15 - 11.15 momentum trading 
@@ -203,7 +204,7 @@ Strategy 4: Top Reversal Strategy
  3. Wait for confirmation of reversal
     1. Formation of bearish doji or indecision candle 
 	2. Formation of a very bearish candle 
-	3. Stock is being traded at or near the significant reistance level 
+	3. Stock is being traded at or near the significant resistance level 
 	4. RSI higher than 90 
  4. Short stocks when the stock make a new 5-min low 
  5. Stop loss should be high of previous candle or high of the day 
@@ -213,11 +214,69 @@ Strategy 4: Top Reversal Strategy
 	3. Stock makes a new 5-min high 
 	
 Strategy 5: Moving Average Trend Trading 
-
-
+ 1. Many stocks move up or down after 11 am & MA in 1-min and 5-min charts can be used to determine moving support/resistance 
+ 2. Use 9 EMA, 20 EMA, 50 SMA, 200 SMA 
+ 3. Stocks in Play trending around 9 EMA 
+ 4. Quickly review previous day's trading data to see if stock is responding to these moving averages 
+ 5. After confirmation of moving averages as support, buy as close as possible to MA line 
+ 6. Stop Loss below the moving average line 
+ 7. Ride the trend and take some profit, usually at half-position
+ 8. MA provide potential levels of support and resistance 
+ 9. Make trade based on trends rarely as you are exposed for a longer time 
+ 10. This strategy works best during mid-day and the close. 
+ 11. The MA Trend Strategy has clear entry & exit points 
+ 
+Strategy 6: VWAP Trading 
+ 1. When stock trades above VWAP, buyers are in control 
+ 2. When stock trades below VWAP, sellers are in control 
+ 3. Monitor price action around VWAP at open 
+ 4. If stock shows respect towards VWAP, then wait for a confirmation (VWAP break for short and VWAP support for long) 
+ 5. Buy as close as possible to VWAP 
+ 6. Stop loss at 5-min break below VWAP 
+ 7. Keep the trade until it hits your profit or it reaches a new support/resistance 
+ 8. Sell half positions near the profit target and move the stop loss to entry point or break even 
+ 
+Strategy 7: Support or Resistance Trading 
+ 1. Market remembers only price levels, which is why horizontal support or resistance lines on previous price levels makes sense 
+ 2. Support is a horizontal line connecting two or more bottoms 
+ 3. Resistance is a horizontal line connecting two or more tops 
+ 4. Finding price support or resistance levels is tricky and requires trading experience 
+ 5. S/R lines on daily charts are not always easy to find. 
+ 6. If you cannot see anything clear, dont draw anything 
+ 7. 0.50 and round numbers usually acts as support or resistance level 
+ 8. Always look at recent data to draw lines 
+ 9. The more a line touching extreme price lines, the more that the line is a better support or resistance 
+ 10. Only S/R lines in the current price range are important 
+ 11. The price must have a clear bounce from that level. If not, it is probably not a support or resistance level 
+ 12. Steps 
+     1. Look at daily charts & find areas of S/R 
+	 2. Monitor price action around those areas on a 5-min chart
+	 3. If an indecision candle forms around one of those areas, that is the conformation. Enter the trade 
+	 4. Buy as close as possible to the support level, with a stop loss under the close of 50min candle under support level 
+	 5. Take profit near resistance or next support level 
+	 6. If there are no obvious resistance or next support levels, consider closing the trade around 0.5 or round number 
 	 
+Strategy 8: Red-to-Green Trading 
+ 1. Monitor price action around the previous day close 
+ 2. If stock moves towards previous day close with high volume, go long with the target as previous day close 
+ 3. Stop loss should be break of VWAP/MA/Support 
  
- 
- 
+Strategy 9: Green-to-Red Trading 
+ 1. Monitor price action around the previous day close 
+ 2. If stock moves ahead previous day close with high volume, go short with the target as previous day close 
+ 3. Stop loss should be break of VWAP/MA/Support 
 
-
+Strategy 10: Opening Range Breakouts (ORB) 
+ 1. This strategy signals entry point but not target 
+ 2. Works best with mid to large cap stocks 
+ 3. Not recommended to trade low float stocks that have gapped up or down 
+ 4. Ideally, stock should trade within a opening range (first 5 mins or 15 mins) which should less than the ATR of the stock 
+ 5. Opening 5 mins should be directional (up or down) with high volume and higher number of orders. Not few orders covering high volume
+ 6. opening range < ATR 
+ 7. After 5 mins, if stock breakout, enter the trade 
+ 8. Stop loss is close to VWAP 
+ 9. Target could be:
+    1. Important intraday daily levels identified in pre-market 
+	2. Moving averages on daily chart 
+	3. Previous day close 
+	4. exit when stock shows signs of weakness 
